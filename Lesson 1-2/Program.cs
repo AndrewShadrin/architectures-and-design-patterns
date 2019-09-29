@@ -8,6 +8,9 @@ namespace Lesson_1_2
         public static readonly string Address = Constants.Address;
         public static readonly string Format = Constants.Format;
 
+        /// <summary>
+        /// Делегат для функции получения форматированной строки
+        /// </summary>
         private static Func<String, String, int, String> FuncStringDelegate;
 
         private static void DummyFunc()
