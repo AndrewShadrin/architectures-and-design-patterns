@@ -1,0 +1,7 @@
+D:\Documents\Developing\C#\GeekBrains\architectures-and-design-patterns\architectures-and-design-patterns\obj\Debug\architectures-and-design-patterns.csprojAssemblyReference.cache
+D:\Documents\Developing\C#\GeekBrains\architectures-and-design-patterns\architectures-and-design-patterns\obj\Debug\architectures-and-design-patterns.csproj.CoreCompileInputs.cache
+D:\Documents\Developing\C#\GeekBrains\architectures-and-design-patterns\architectures-and-design-patterns\bin\Debug\architectures-and-design-patterns.exe.config
+D:\Documents\Developing\C#\GeekBrains\architectures-and-design-patterns\architectures-and-design-patterns\bin\Debug\architectures-and-design-patterns.exe
+D:\Documents\Developing\C#\GeekBrains\architectures-and-design-patterns\architectures-and-design-patterns\bin\Debug\architectures-and-design-patterns.pdb
+D:\Documents\Developing\C#\GeekBrains\architectures-and-design-patterns\architectures-and-design-patterns\obj\Debug\architectures-and-design-patterns.exe
+D:\Documents\Developing\C#\GeekBrains\architectures-and-design-patterns\architectures-and-design-patterns\obj\Debug\architectures-and-design-patterns.pdb
